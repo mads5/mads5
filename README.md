@@ -31,3 +31,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mads5&show_icons=true" alt="mads5" /></p>
 
+<h2 align="center">Show ❤️ By Starring My Repos!</h2>
+<br>
+
+
+```python3
+print('Thank You! for visiting my github profile 😊.')

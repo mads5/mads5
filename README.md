@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mads5" alt="mads5" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mads5" alt="mads5" /> </p>
-
 - 🕵 Programmer Analyst at Cognizant Technology Solutions Pvt Ltd
 
 - 👨‍💻 All of my projects are available at [here](mads5)

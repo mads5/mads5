@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Veer Kalantri</h1>
+<h1 align="center">Hola 👋, I'm Veer Kalantri</h1>
 <h3 align="center">A passionate freelance developer from India</h3>
+
+![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello!-Welcome<3-brightgreen.svg?style=flat&logo=github) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mads5" alt="mads5" /> </p>
 
-- 👨‍💻 All of my projects are available at [mads5](mads5)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mads5" alt="mads5" /> </p>
 
-- 💬 Ask me about **Machine Learning**
+- 🕵 Programmer Analyst at Cognizant Technology Solutions Pvt Ltd
+
+- 👨‍💻 All of my projects are available at [here](mads5)
+
+- 💬 Ask me about **💻 Technical Stuff and 🚀 Rocket Science**😜
 
 - 📫 How to reach me **mads.531998@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>

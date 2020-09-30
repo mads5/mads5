@@ -33,7 +33,3 @@
 
 <h2 align="center">Show ❤️ By Starring My Repos!</h2>
 <br>
-
-
-```python3
-print('Thank You! for visiting my github profile 😊.')

@@ -1,4 +1,4 @@
-<h1 align="center">Hallo 👋, Ich bin Veer Kalantri</h1>
+<h1 align="center">Hallo 👋, Ich bin Veer</h1>
 <h3 align="center">A passionate freelance developer from India</h3>
 
 ![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello!-Welcome<3-brightgreen.svg?style=flat&logo=github) 

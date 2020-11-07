@@ -7,11 +7,11 @@
 
 - 🕵 Programmer Analyst at Cognizant Technology Solutions Pvt Ltd
 
-- 👨‍💻 All of my projects are available at [here](mads5)
+- 👨‍💻 All of my projects are available [here](mads5)
 
 - 💬 Ask me about **💻 Technical Stuff and 🚀 Rocket Science**😜
 
-- 📫 How to reach me **mads.531998@gmail.com**
+- 📫 Reach me at **mads.531998@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>

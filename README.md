@@ -7,7 +7,7 @@
 
 - 🕵 Software Engineer 2 at Dell Technologies Pvt Ltd
 
-- 👨‍💻 All of my projects are available [here][(https://github.com/mads5?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/mads5?tab=repositories)
 
 - 💬 Ask me about **💻 Technical Stuff and 🚀 Rocket Science**😜
 

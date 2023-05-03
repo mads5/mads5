@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mads5" alt="mads5" /> </p>
 
-- 🕵 Associate Software Engineer at Cognizant Technology Solutions Pvt Ltd
+- 🕵 Software Engineer 2 at Dell Technologies Pvt Ltd
 
-- 👨‍💻 All of my projects are available [here](mads5)
+- 👨‍💻 All of my projects are available [here](https://github.com/mads5)
 
 - 💬 Ask me about **💻 Technical Stuff and 🚀 Rocket Science**😜
 
-- 📫 Reach me at **mads.531998@gmail.com**
+- 📫 Reach me at **veerkalantri1@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>

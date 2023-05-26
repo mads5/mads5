@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mads5" alt="mads5" /> </p>
 
-- 🕵 Software Engineer at Dell Technologies Pvt Ltd
+- 🕵 Software Engineer at Dell Technologies
 
 - 👨‍💻 All of my projects are available [here](https://github.com/mads5?tab=repositories)
 
@@ -30,4 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mads5&show_icons=true" alt="mads5" /></p>
 
 <h3 align="center">Show ❤️ By Starring My Repos!</h3>
+<h4 align="center"> or </h4>
+<h3 align="center"><a href="https://www.buymeacoffee.com/veerk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Buy Me a Coffee..." height="30" width="40"/>
+<svg width="35" height="35" viewBox="0 0 884 1279" fill="none" xmlns="http://www.w3.org/2000/svg"></a></h3>
 <br>

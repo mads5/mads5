@@ -32,5 +32,4 @@
 <h3 align="center">Show ❤️ By Starring My Repos!</h3>
 <!-- <h4 align="center"> or </h4> -->
 <!-- <h3 align="center"><a href="https://bmc.link/veerk" target="blank"><img align="center" src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Buy-Me-a-Coffee-900x0.png" alt="By Me a Coffee" height="30" width="40" /></a>Buy Me a Coffee!</h3> -->
-<img class="wpdm-thumb wpdm-thumb-900x0 wpdm-thumb-61332 perfmatters-lazy loaded" src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Buy-Me-a-Coffee-900x0.png" alt="Buy Me a Coffee" data-src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Buy-Me-a-Coffee-900x0.png" data-was-processed="true">
 <br>

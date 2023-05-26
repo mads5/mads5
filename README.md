@@ -31,5 +31,5 @@
 
 <h3 align="center">Show ❤️ By Starring My Repos!</h3>
 <!-- <h4 align="center"> or </h4> -->
-<h3><a href="https://bmc.link/veerk" target="blank"><img align="left" src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Buy-Me-a-Coffee-900x0.png" alt="By Me a Coffee" height="30" width="40" /></a></h3>
+<h3><a href="https://bmc.link/veerk" target="blank"><img align="center" src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Buy-Me-a-Coffee-900x0.png" alt="By Me a Coffee" height="30" width="40" /></a></h3>
 <br>

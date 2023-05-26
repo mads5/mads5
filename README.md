@@ -28,9 +28,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mads5&layout=compact" alt="mads5" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mads5&show_icons=true" alt="mads5" /></p>
-
+<!-- 
 <h3 align="center">Show ❤️ By Starring My Repos!</h3>
-<h4 align="center"> or </h4>
+<h4 align="center"> or </h4> -->
 <a href="https://www.buymeacoffee.com/?utm_source=logo&amp;utm_medium=header&amp;utm_campaign=exp">
 <svg width="35" height="35" viewBox="0 0 884 1279" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M791.109 297.518L790.231 297.002L788.201 296.383C789.018 297.072 790.04 297.472 791.109 297.518Z" fill="#0D0C22"></path>

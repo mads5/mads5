@@ -3,7 +3,7 @@
 
 ![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello!-Welcome<3-brightgreen.svg?style=flat&logo=github) 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mads5" alt="mads5" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mads5" alt="mads5" /> </p>
 
 - 🕵 Software Engineer at Dell Technologies
 
@@ -13,8 +13,8 @@
 
 - 📫 Reach me at **veerkalantri1@gmail.com**
 
-<p align="center">
-<h3 align="center">Connect with me:</h3>
+<p align="left">
+<h3 align="left">Connect with me:</h3>
 <!-- <a href="https://twitter.com/desiichinese" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="desiichinese" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/veerkalantri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="veerkalantri" height="30" width="40" /></a>
 <!-- <a href="https://fb.com/veerkalantri1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="veerkalantri1" height="30" width="40" /></a> -->

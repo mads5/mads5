@@ -10,4 +10,4 @@ liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
 lfx_crowdfunding: #
-custom: ["https://bmc.link/veerk" , https://www.buymeacoffee.com]
+custom: ["https://bmc.link/veerk", buymeacoffee.com]

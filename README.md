@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mads5" alt="mads5" /> </p>
 
-- 🕵 Software Engineer 2 at Dell Technologies Pvt Ltd
+- 🕵 Software Engineer at Dell Technologies Pvt Ltd
 
 - 👨‍💻 All of my projects are available [here](https://github.com/mads5?tab=repositories)
 

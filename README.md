@@ -1,65 +1,34 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Veer's Profile</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh; /* Use the full viewport height */
-  }
-  .container {
-    max-width: 800px;
-    padding: 20px;
-    text-align: center;
-  }
-  h1, h2, h3, h4, p, img {
-    text-align: center;
-  }
-  img {
-    display: block;
-    margin: 0 auto; /* Centers the image */
-    margin-top: 10px;
-    margin-bottom: 10px;
-  }
-</style>
-</head>
-<body>
-<div class="container">
-  <h1>Hallo 👋, Ich bin Veer</h1>
-  <h3>A passionate developer from India</h3>
-  <img src="https://img.shields.io/badge/Hello!-Welcome<3-brightgreen.svg?style=flat&logo=github" alt="Hello programmer Welcome to my profile">
-  <p><img src="https://komarev.com/ghpvc/?username=mads5" alt="mads5" /></p>
-  <p>🕵 Software Engineer at Dell Technologies</p>
-  <p>👨‍💻 All of my projects are available <a href="https://github.com/mads5?tab=repositories">here</a></p>
-  <p>💬 Ask me about 💻 Technical Stuff and 🚀 Rocket Science 😜</p>
-  <p>📫 Reach me at <a href="mailto:veerkalantri1@gmail.com">veerkalantri1@gmail.com</a></p>
-  <h3>Connect with me:</h3>
-  <a href="https://linkedin.com/in/veerkalantri" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30"></a>
-  <a href="https://www.youtube.com/user/5mads" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="30" width="30"></a>
-  <h3>Languages and Tools:</h3>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40" width="40">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40" width="40">
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="40" width="40">
-  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" height="40" width="40">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" height="40" width="40">
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" height="40" width="40">
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="40" width="40">
-  <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" height="40" width="40">
-  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" height="40" width="40">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40" width="40">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mads5&layout=compact" alt="mads5" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=mads5&show_icons=true" alt="mads5" /></p>
-  <h3>Show ❤️ By Starring My Repos!</h3>
-  <h4>or</h4>
-  <h2><a href="https://bmc.link/veerk" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/coffee.png" alt="Buy Me a Coffee" height="40" width="40"></a><a href="https://bmc.link/veerk">Buy Me a Coffee</a></h2>
-</div>
-</body>
-</html>
+<h1 align="center">Hallo 👋, Ich bin Veer</h1>
+<h3 align="center">A passionate developer from India</h3>
+
+![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello!-Welcome<3-brightgreen.svg?style=flat&logo=github) 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mads5" alt="mads5" /> </p>
+
+- 🕵 Software Engineer at Dell Technologies
+
+- 👨‍💻 All of my projects are available [here](https://github.com/mads5?tab=repositories)
+
+- 💬 Ask me about **💻 Technical Stuff and 🚀 Rocket Science**😜
+
+- 📫 Reach me at **veerkalantri1@gmail.com**
+
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+
+<a href="https://linkedin.com/in/veerkalantri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="veerkalantri" height="30" width="40" /></a>
+
+<a href="https://www.youtube.com/user/5mads" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="5mads" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/><img 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mads5&layout=compact" alt="mads5" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mads5&show_icons=true" alt="mads5" /></p>
+
+<h3 align="center">Show ❤️ By Starring My Repos!</h3>
+<h4 align="center"> or </h4>
+<h2 align="center"><a href="https://bmc.link/veerk" target="blank"><img align="center" src="https://raw.githubusercontent.com/mads5/mads5/master/clipboard.ico" alt="By Me a Coffee" height="40" width="40" /></a><a href="https://bmc.link/veerk">Buy Me a Coffee</a></h3>
+<br>

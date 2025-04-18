@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mads5" alt="mads5" /> </p>
 
-- 🕵 Software Engineer at Autodesk
+- 🕵 Software Engineer at Persistent Systems
 
 - 👨‍💻 All of my projects are available [here](https://github.com/mads5?tab=repositories)
 

@@ -2,7 +2,7 @@
 <h1 align="center">Hallo 👋, Ich bin Veer</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello!-Welcome<3-brightgreen.svg?style=flat&logo=github) 
+![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello!-Welcome<3-orange.svg?style=flat&logo=github) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mads5" alt="mads5" /> </p>
 

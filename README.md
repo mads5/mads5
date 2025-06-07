@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="assets/css/custom.css">
 <h1 align="center">Hallo 👋, Ich bin Veer</h1>
 <h3 align="center">A passionate developer from India</h3>
 

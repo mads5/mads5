@@ -100,7 +100,8 @@
 <h3 align="center">Show ❤️ By Starring My Repos!</h3>
 <h4 align="center"> or </h4>
 <h2 align="center">
-  <a href="https://bmc.link/veerk" target="_blank" style="display:inline-flex;align-items:center;text-decoration:none;">
+  <a href="https://bmc.link/veerk" target="_blank"
+     style="display:inline-flex;align-items:center;text-decoration:none;">
     <img src="
       https://raw.githubusercontent.com/mads5/mads5/master/clipboard.ico"
          alt="Buy Me a Coffee" width="40" height="40"

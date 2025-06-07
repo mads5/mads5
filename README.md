@@ -118,3 +118,10 @@ To run the site locally:
 bundle install
 bundle exec jekyll serve
 ```
+
+## Deployment
+
+The site is automatically published using
+[peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages).
+Whenever changes land in the repository, the GitHub Actions workflow builds the
+site and pushes the contents of the `_site` directory to the `gh-pages` branch.

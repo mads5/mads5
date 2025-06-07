@@ -19,13 +19,13 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://linkedin.com/in/veerkalantri" target="_blank">
-  <img align="center"
+  <img align="center" class="social-icon"
        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
        alt="veerkalantri" height="30" width="40" />
 </a>
 
 <a href="https://www.youtube.com/user/5mads" target="_blank">
-  <img align="center"
+  <img align="center" class="social-icon"
        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg"
        alt="5mads" height="30" width="40" />
 </a>
@@ -108,20 +108,4 @@
     Buy Me a Coffee
   </a>
 </h2>
-<br>
 
-## Local development
-
-To run the site locally:
-
-```bash
-bundle install
-bundle exec jekyll serve
-```
-
-## Deployment
-
-The site is automatically published using
-[peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages).
-Whenever changes land in the repository, the GitHub Actions workflow builds the
-site and pushes the contents of the `_site` directory to the `gh-pages` branch.

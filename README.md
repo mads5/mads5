@@ -118,3 +118,8 @@ To run the site locally:
 bundle install
 bundle exec jekyll serve
 ```
+The site is deployed via [GitHub Pages](https://mads5.github.io).
+
+## Contributing
+
+Please update either `README.md` or `index.md` when making changes to the site.

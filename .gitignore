@@ -2,5 +2,4 @@ _site/
 .jekyll-cache/
 
 # ignore Ruby bundler config
-Gemfile
 Gemfile.lock

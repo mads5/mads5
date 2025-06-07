@@ -38,3 +38,12 @@
   </a>
 </h2>
 <br>
+
+## Local development
+
+To run the site locally:
+
+```bash
+bundle install
+bundle exec jekyll serve
+```

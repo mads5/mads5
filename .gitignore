@@ -1,5 +1,14 @@
+# Jekyll build artifacts
 _site/
+.sass-cache/
 .jekyll-cache/
+.jekyll-metadata
 
-# ignore Ruby bundler config
+# Bundler artifacts
 Gemfile.lock
+.bundle/
+vendor/
+
+# Miscellaneous
+.DS_Store
+*~

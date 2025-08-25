@@ -20,8 +20,8 @@
 
 <a href="https://linkedin.com/in/veerkalantri" target="_blank">
   <img align="center"
-       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
-       alt="veerkalantri" height="30" width="40" />
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"
+       alt="veerkalantri" height="60" width="80" />
 </a>
 
 <a href="https://www.youtube.com/user/5mads" target="_blank">
@@ -33,55 +33,39 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-      alt="c" width="40" height="40"/>
-  </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-      alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
-      alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-      alt="html5" width="40" height="40"/>
-  </a>
   <a href="https://www.linux.org/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg"
-      alt="linux" width="40" height="40"/>
+    <img 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+         alt="linux" width="60" height="60"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-      alt="mysql" width="40" height="40"/>
+     <a href="https://playwright.dev/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg"
+       alt="Playwright" width="40" height="40"/>
   </a>
-  <a href="https://opencv.org/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-      alt="opencv" width="40" height="40"/>
+  <a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+       alt="Visual Studio Code" width="40" height="40"/>
   </a>
-  <a href="https://www.oracle.com/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
-      alt="oracle" width="40" height="40"/>
+  <a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+       alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      alt="python" width="40" height="40"/>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+       alt="Terminal" width="40" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev/" target="_blank">
+  <img src="https://raw.githubusercontent.com/SeleniumHQ/heroku-selenium/6fe2098a074d48d15678c63fd93da02ed9c9c366/selenium-green.svg"
+       alt="Selenium" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+       alt="Python" width="40" height="40"/>
   </a>
 </p>
 
@@ -100,13 +84,13 @@
 <h3 align="center">Show ❤️ By Starring My Repos!</h3>
 <h4 align="center"> or </h4>
 <h2 align="center">
-  <a href="https://bmc.link/veerk" target="_blank"
+<!--   <a href="https://bmc.link/veerk" target="_blank"
      style="display:inline-flex;align-items:center;text-decoration:none;">
     <img src="
       https://raw.githubusercontent.com/mads5/mads5/master/clipboard.ico"
-         alt="Buy Me a Coffee" width="40" height="40"
-         style="margin-right:0.4em;">
-    Buy Me a Coffee
+         width="40" height="40"
+         style="margin-right:0.4em;"> -->
+<a href="https://bmc.link/veerk" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
   </a>
 </h2>
 <br>

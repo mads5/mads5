@@ -91,11 +91,5 @@
          width="40" height="40"
          style="margin-right:0.4em;"> -->
 <a href="https://bmc.link/veerk" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-  </a>
 </h2>
 <br>
-
-
-## Website
-
-Visit the live site at [https://mads5.github.io/mads5/](https://mads5.github.io/mads5/). It auto-deploys from the `gh-pages` branch.

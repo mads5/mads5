@@ -2,6 +2,10 @@
 <h1 align="center">Hallo 👋, Ich bin Veer</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=mads5/mads5@github)](https://gitads.dev/v1/ad-track?source=mads5/mads5@github)
+
+
 <img alt="Hello programmer Welcome to my profile" src="https://img.shields.io/badge/Hello!-Welcome<3-orange.svg?style=flat&logo=github">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mads5" alt="mads5" /> </p>

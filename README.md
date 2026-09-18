@@ -77,7 +77,7 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=mads5&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true" alt="Veer's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mads5&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;hide_rank=true" alt="Veer's GitHub stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mads5&amp;layout=compact&amp;theme=transparent&amp;hide_border=true" alt="Top languages" />
 </p>
 

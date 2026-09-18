@@ -4,17 +4,17 @@
 <h1 align="center">Hi, I'm Veer</h1>
 
 <p align="center">
-  <strong>Software engineer from India.</strong>
+  <strong>Software engineer from India.</strong><br />
   I build automation, web apps, and tools people can actually use.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mads5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mads5&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views" />
   <a href="https://veer.is-a.dev">
     <img src="https://img.shields.io/badge/Website-veer.is--a.dev-0e75b6?style=flat" alt="Website" />
   </a>
   <a href="mailto:veerkalantri1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-veerkalantri1%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-veerkalantri1%40gmail.com-D14836?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -77,13 +77,14 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mads5&show_icons=true&theme=transparent&hide_border=true" alt="Veer's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mads5&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mads5&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true" alt="Veer's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mads5&amp;layout=compact&amp;theme=transparent&amp;hide_border=true" alt="Top languages" />
 </p>
 
+<p align="center">Show ❤️ by starring a repo</p>
+
 <p align="center">
-  Show ❤️ by starring a repo, or
-  <a href="https://www.buymeacoffee.com/veerk" title="Buy me a coffee">
+  <a href="https://www.buymeacoffee.com/veerk">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="41" />
   </a>
 </p>

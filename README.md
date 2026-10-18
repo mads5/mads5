@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=mads5&amp;label=Profile%20views&amp;color=orange&amp;style=flat" alt="mads5 profile views" />
 </p>
 
-- 🕵 Software Engineer at Persistent Systems
+- 🕵 A Passionate Software Engineer
 - 👨‍💻 All of my projects are available [here](https://github.com/mads5?tab=repositories)
 - 💬 Ask me about **💻 Technical Stuff and 🚀 Rocket Science** 😜
 - 📫 Reach me at **[veerkalantri1@gmail.com](mailto:veerkalantri1@gmail.com)**

@@ -5,7 +5,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=F97316&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Software+Engineer+at+Persistent+Systems;Python+%7C+Playwright+%7C+Selenium;I+build+%26+automate+useful+tools" alt="Typing subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=F97316&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Software+Engineer;Python+%7C+Playwright+%7C+Selenium;I+build+%26+automate+useful+tools" alt="Typing subtitle" />
 </p>
 
 ## GitAds Sponsored
